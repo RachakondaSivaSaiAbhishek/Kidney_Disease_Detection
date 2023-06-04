@@ -25,7 +25,7 @@ To get started with the Kidney_Disease_Detection project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Kidney_Disease_Detection.git
+   git clone https://github.com/RachakondaSivaSaiAbhishek/Kidney_Disease_Detection
    ```
 
 2. Install the required dependencies:
