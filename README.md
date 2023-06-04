@@ -1,8 +1,5 @@
 🌟 **Kidney_Disease_Detection** 🌟
 
-[![GitHub Issues](https://img.shields.io/github/issues/Kidney_Disease_Detection.svg)](https://docs.github.com/en/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Kidney_Disease_Detection.svg)](https://docs.github.com/en/pull-requests)
-[![License](https://img.shields.io/github/license/Kidney_Disease_Detection.svg)](https://github.com/Kidney_Disease_Detection/blob/main/LICENSE)
 
 ![Kidney Disease Detection](https://media.giphy.com/media/cIIlwcHQjjlCOXZVjW/giphy.gif)
 
